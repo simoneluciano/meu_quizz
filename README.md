@@ -28,4 +28,4 @@ Feedback do usuário
 
 Exibição das respostas corretas
 
-Envio das respostas para o e-mail do autor
+
